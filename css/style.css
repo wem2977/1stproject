@@ -1,0 +1,26 @@
+.mainContent {
+  display: flex;
+  min-height: 100vh; }
+
+header {
+  width: 135px;
+  padding-right: 20px; }
+
+.header-position {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 135px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+
+nav ul {
+  list-style: none;
+  text-align: right;
+  padding: 0; }
+nav li {
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=style.css.map */
